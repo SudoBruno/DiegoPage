@@ -22,7 +22,7 @@ export default function Home() {
           <img src="/logo.png" alt="" />
         </h1>
         <h1 className={styles.title}>
-          <img src="/hugo.jpeg" alt="" />
+          <img src="/diego.jpeg" alt="" />
         </h1>
 
         <p className={styles.description}>
